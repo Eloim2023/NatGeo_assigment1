@@ -1,2 +1,2 @@
-# NatGeo_assigment1
-Assignment 1 - NatGeo
+# NatGeo-ITM
+In-class exercise
